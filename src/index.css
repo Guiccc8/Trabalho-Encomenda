@@ -1,0 +1,30 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    text-align: center;  
+
+}
+
+
+
+.lin button{
+    background-color: blueviolet;
+    border: 1px solid black;
+    padding: 1rem 2rem;
+    border-radius: 10%;
+    color: white;
+    cursor: pointer;
+    margin-left: 10px;
+
+}
+
+.lin input{
+    padding: 1rem 2rem;
+}
+
+ul{
+    display: block;
+    width: 100%;
+    font-size: medium;
+}
